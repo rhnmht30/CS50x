@@ -1,3 +1,5 @@
+
+// all the code below is just to check the working of other code in the program, no need to put your head in this.
 #include<cs50.h>
 #include<stdio.h>
 #include<stdlib.h>
