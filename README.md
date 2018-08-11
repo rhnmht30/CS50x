@@ -1,7 +1,7 @@
-## CS50 - Introduction to Computer Science
+# CS50 - Introduction to Computer Science
 My submissions of problem sets during CS50x
 
-# Content
+## Content
 * [Problem 1](pset1)
 * [Problem 2](pset2)
 * [Problem 3](pset3)
