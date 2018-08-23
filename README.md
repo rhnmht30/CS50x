@@ -2,8 +2,10 @@
 My submissions of problem sets during CS50x
 
 ## Content
-* [Problem 1](pset1)
-* [Problem 2](pset2)
-* [Problem 3](pset3)
-* [Problem 4](pset4)
+* [Problem Set 1](pset1)
+* [Problem Set 2](pset2)
+* [Problem Set 3](pset3)
+* [Problem Set 4](pset4)
+* [Problem Set 5](pset5)
+
 
