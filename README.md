@@ -7,5 +7,6 @@ My submissions of problem sets during CS50x
 * [Problem Set 3](pset3)
 * [Problem Set 4](pset4)
 * [Problem Set 5](pset5)
+* [Problem Set 6](pset6)
 
 
